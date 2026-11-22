@@ -44,10 +44,11 @@ This project analyzes student performance factors and predicts students' exam sc
 An interactive GUI was developed using IPyWidgets. Users can enter student details and receive predicted exam scores.
 
 ##  Project Files
-Student_Performance_Prediction.ipynb – Complete Python project notebook.
-StudentPerformanceFactors.csv – Dataset used for analysis and training.
-student_performance_model_compressed.pkl – Trained and compressed Random Forest model.
-README.md – Project documentation
+
+- `Student_Performance_Prediction.ipynb` – Complete Python project notebook.
+- `StudentPerformanceFactors.csv` – Dataset used for analysis and training.
+- `student_performance_model_compressed.pkl` – Trained and compressed Random Forest model.
+- `README.md` – Project documentation.
 
 ## Author
 Aspiring Data Scientist
